@@ -111,7 +111,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 0,
-      "kudos_count": 0,
+      "kudos_count": 1,
       "comment_count": 0,
       "athlete_count": 1,
       "photo_count": 0,
@@ -127,8 +127,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078597, -80.860232],
-      "end_latlng": [35.087372, -80.857252],
+      "start_latlng": [
+        35.078597,
+        -80.860232
+      ],
+      "end_latlng": [
+        35.087372,
+        -80.857252
+      ],
       "average_speed": 1.595,
       "max_speed": 6.11,
       "average_cadence": 56.5,
@@ -170,7 +176,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 0,
-      "kudos_count": 0,
+      "kudos_count": 1,
       "comment_count": 0,
       "athlete_count": 1,
       "photo_count": 0,
@@ -186,8 +192,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.087242, -80.857139],
-      "end_latlng": [35.07895, -80.859921],
+      "start_latlng": [
+        35.087242,
+        -80.857139
+      ],
+      "end_latlng": [
+        35.07895,
+        -80.859921
+      ],
       "average_speed": 1.298,
       "max_speed": 1.76,
       "average_cadence": 50.1,
@@ -246,8 +258,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.068703, -80.855654],
-      "end_latlng": [35.069508, -80.850515],
+      "start_latlng": [
+        35.068703,
+        -80.855654
+      ],
+      "end_latlng": [
+        35.069508,
+        -80.850515
+      ],
       "average_speed": 2.448,
       "max_speed": 4.683,
       "average_cadence": 79.8,
@@ -305,8 +323,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.214595, -81.295386],
-      "end_latlng": [35.213742, -81.293447],
+      "start_latlng": [
+        35.214595,
+        -81.295386
+      ],
+      "end_latlng": [
+        35.213742,
+        -81.293447
+      ],
       "average_speed": 1.102,
       "max_speed": 3.59,
       "average_cadence": 45.9,
@@ -364,8 +388,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.214618, -80.835756],
-      "end_latlng": [35.219585, -80.83635],
+      "start_latlng": [
+        35.214618,
+        -80.835756
+      ],
+      "end_latlng": [
+        35.219585,
+        -80.83635
+      ],
       "average_speed": 1.226,
       "max_speed": 2.86,
       "average_cadence": 52.7,
@@ -424,8 +454,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.087195, -80.881795],
-      "end_latlng": [35.088126, -80.88211],
+      "start_latlng": [
+        35.087195,
+        -80.881795
+      ],
+      "end_latlng": [
+        35.088126,
+        -80.88211
+      ],
       "average_speed": 6.618,
       "max_speed": 10.58,
       "average_cadence": 69,
@@ -486,8 +522,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.10319, -80.878679],
-      "end_latlng": [35.103103, -80.878641],
+      "start_latlng": [
+        35.10319,
+        -80.878679
+      ],
+      "end_latlng": [
+        35.103103,
+        -80.878641
+      ],
       "average_speed": 6.484,
       "max_speed": 9.82,
       "average_cadence": 67.2,
@@ -550,8 +592,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.088283, -80.881814],
-      "end_latlng": [35.088248, -80.881854],
+      "start_latlng": [
+        35.088283,
+        -80.881814
+      ],
+      "end_latlng": [
+        35.088248,
+        -80.881854
+      ],
       "average_speed": 5.999,
       "max_speed": 9.72,
       "average_cadence": 65.5,
@@ -614,8 +662,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.087539, -80.88184],
-      "end_latlng": [35.08811, -80.882081],
+      "start_latlng": [
+        35.087539,
+        -80.88184
+      ],
+      "end_latlng": [
+        35.08811,
+        -80.882081
+      ],
       "average_speed": 6.297,
       "max_speed": 9.52,
       "average_cadence": 67.3,
@@ -678,8 +732,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.087291, -80.881796],
-      "end_latlng": [35.088134, -80.882101],
+      "start_latlng": [
+        35.087291,
+        -80.881796
+      ],
+      "end_latlng": [
+        35.088134,
+        -80.882101
+      ],
       "average_speed": 6.204,
       "max_speed": 10.38,
       "average_cadence": 68.2,
@@ -742,8 +802,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077938, -80.818934],
-      "end_latlng": [35.162878, -80.847679],
+      "start_latlng": [
+        35.077938,
+        -80.818934
+      ],
+      "end_latlng": [
+        35.162878,
+        -80.847679
+      ],
       "average_speed": 5.807,
       "max_speed": 10,
       "average_cadence": 62.8,
@@ -806,8 +872,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077761, -80.818228],
-      "end_latlng": [35.077036, -80.822237],
+      "start_latlng": [
+        35.077761,
+        -80.818228
+      ],
+      "end_latlng": [
+        35.077036,
+        -80.822237
+      ],
       "average_speed": 2.755,
       "max_speed": 4.96,
       "average_cadence": 81.7,
@@ -968,8 +1040,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.103261, -80.878853],
-      "end_latlng": [35.103252, -80.878892],
+      "start_latlng": [
+        35.103261,
+        -80.878853
+      ],
+      "end_latlng": [
+        35.103252,
+        -80.878892
+      ],
       "average_speed": 6.074,
       "max_speed": 10.08,
       "average_watts": 94.3,
@@ -1028,8 +1106,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.189126, -80.845126],
-      "end_latlng": [35.188649, -80.845889],
+      "start_latlng": [
+        35.189126,
+        -80.845126
+      ],
+      "end_latlng": [
+        35.188649,
+        -80.845889
+      ],
       "average_speed": 4.956,
       "max_speed": 10.767,
       "average_watts": 76.4,
@@ -1090,8 +1174,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077801, -80.818537],
-      "end_latlng": [35.077509, -80.817456],
+      "start_latlng": [
+        35.077801,
+        -80.818537
+      ],
+      "end_latlng": [
+        35.077509,
+        -80.817456
+      ],
       "average_speed": 6.398,
       "max_speed": 11.655,
       "average_watts": 90.2,
@@ -1152,8 +1242,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077824, -80.818547],
-      "end_latlng": [35.074876, -80.825311],
+      "start_latlng": [
+        35.077824,
+        -80.818547
+      ],
+      "end_latlng": [
+        35.074876,
+        -80.825311
+      ],
       "average_speed": 3.011,
       "max_speed": 4.583,
       "average_cadence": 83.4,
@@ -1212,8 +1308,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.060643, -80.810443],
-      "end_latlng": [35.06013, -80.810438],
+      "start_latlng": [
+        35.060643,
+        -80.810443
+      ],
+      "end_latlng": [
+        35.06013,
+        -80.810438
+      ],
       "average_speed": 2.515,
       "max_speed": 4.914,
       "average_cadence": 79.8,
@@ -1271,8 +1373,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077416, -80.821395],
-      "end_latlng": [35.07762, -80.821247],
+      "start_latlng": [
+        35.077416,
+        -80.821395
+      ],
+      "end_latlng": [
+        35.07762,
+        -80.821247
+      ],
       "average_speed": 1.212,
       "max_speed": 2.88,
       "average_cadence": 50.5,
@@ -1813,8 +1921,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078284, -80.81975],
-      "end_latlng": [35.077068, -80.822192],
+      "start_latlng": [
+        35.078284,
+        -80.81975
+      ],
+      "end_latlng": [
+        35.077068,
+        -80.822192
+      ],
       "average_speed": 2.473,
       "max_speed": 3.94,
       "average_cadence": 80.3,
@@ -1873,8 +1987,14 @@
       "visibility": "everyone",
       "flagged": true,
       "gear_id": null,
-      "start_latlng": [35.074246, -80.828898],
-      "end_latlng": [35.060675, -80.813307],
+      "start_latlng": [
+        35.074246,
+        -80.828898
+      ],
+      "end_latlng": [
+        35.060675,
+        -80.813307
+      ],
       "average_speed": 3.8,
       "max_speed": 25.18,
       "average_cadence": 59.3,
@@ -1933,8 +2053,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.062713, -80.865702],
-      "end_latlng": [35.074019, -80.826025],
+      "start_latlng": [
+        35.062713,
+        -80.865702
+      ],
+      "end_latlng": [
+        35.074019,
+        -80.826025
+      ],
       "average_speed": 2.756,
       "max_speed": 4.56,
       "average_cadence": 79.7,
@@ -1990,8 +2116,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.066863, -80.867294],
-      "end_latlng": [35.062895, -80.866336],
+      "start_latlng": [
+        35.066863,
+        -80.867294
+      ],
+      "end_latlng": [
+        35.062895,
+        -80.866336
+      ],
       "average_speed": 1.47,
       "max_speed": 2.14,
       "average_cadence": 53,
@@ -2047,8 +2179,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.068645, -80.866671],
-      "end_latlng": [35.067623, -80.867253],
+      "start_latlng": [
+        35.068645,
+        -80.866671
+      ],
+      "end_latlng": [
+        35.067623,
+        -80.867253
+      ],
       "average_speed": 1.022,
       "max_speed": 2.425,
       "average_cadence": 50.3,
@@ -2106,8 +2244,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.075163, -80.839319],
-      "end_latlng": [35.067471, -80.867195],
+      "start_latlng": [
+        35.075163,
+        -80.839319
+      ],
+      "end_latlng": [
+        35.067471,
+        -80.867195
+      ],
       "average_speed": 1.562,
       "max_speed": 3.075,
       "average_cadence": 54.2,
@@ -2166,8 +2310,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078104, -80.819448],
-      "end_latlng": [35.07372, -80.82634],
+      "start_latlng": [
+        35.078104,
+        -80.819448
+      ],
+      "end_latlng": [
+        35.07372,
+        -80.82634
+      ],
       "average_speed": 2.928,
       "max_speed": 3.967,
       "average_cadence": 82.8,
@@ -2279,8 +2429,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078032, -80.820679],
-      "end_latlng": [35.075889, -80.824806],
+      "start_latlng": [
+        35.078032,
+        -80.820679
+      ],
+      "end_latlng": [
+        35.075889,
+        -80.824806
+      ],
       "average_speed": 2.743,
       "max_speed": 4.2,
       "average_cadence": 82.3,
@@ -2339,8 +2495,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078153, -80.819069],
-      "end_latlng": [35.077102, -80.822166],
+      "start_latlng": [
+        35.078153,
+        -80.819069
+      ],
+      "end_latlng": [
+        35.077102,
+        -80.822166
+      ],
       "average_speed": 2.768,
       "max_speed": 5.886,
       "average_cadence": 82.9,
@@ -2399,8 +2561,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078167, -80.819478],
-      "end_latlng": [35.076896, -80.82202],
+      "start_latlng": [
+        35.078167,
+        -80.819478
+      ],
+      "end_latlng": [
+        35.076896,
+        -80.82202
+      ],
       "average_speed": 2.711,
       "max_speed": 6.08,
       "average_cadence": 81.8,
@@ -2459,8 +2627,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078136, -80.819465],
-      "end_latlng": [35.076938, -80.822311],
+      "start_latlng": [
+        35.078136,
+        -80.819465
+      ],
+      "end_latlng": [
+        35.076938,
+        -80.822311
+      ],
       "average_speed": 2.63,
       "max_speed": 3.917,
       "average_cadence": 81.7,
@@ -2519,8 +2693,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078055, -80.819391],
-      "end_latlng": [35.077074, -80.82444],
+      "start_latlng": [
+        35.078055,
+        -80.819391
+      ],
+      "end_latlng": [
+        35.077074,
+        -80.82444
+      ],
       "average_speed": 2.683,
       "max_speed": 3.983,
       "average_cadence": 81.9,
@@ -2579,8 +2759,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077173, -80.822428],
-      "end_latlng": [35.077045, -80.821831],
+      "start_latlng": [
+        35.077173,
+        -80.822428
+      ],
+      "end_latlng": [
+        35.077045,
+        -80.821831
+      ],
       "average_speed": 2.503,
       "max_speed": 3.938,
       "average_cadence": 80.1,
@@ -2701,8 +2887,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.770168, -122.44555],
-      "end_latlng": [37.785068, -122.408482],
+      "start_latlng": [
+        37.770168,
+        -122.44555
+      ],
+      "end_latlng": [
+        37.785068,
+        -122.408482
+      ],
       "average_speed": 1.978,
       "max_speed": 4.45,
       "average_cadence": 66.8,
@@ -2761,8 +2953,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.785216, -122.408795],
-      "end_latlng": [37.785613, -122.408294],
+      "start_latlng": [
+        37.785216,
+        -122.408795
+      ],
+      "end_latlng": [
+        37.785613,
+        -122.408294
+      ],
       "average_speed": 2.23,
       "max_speed": 8.36,
       "average_cadence": 68.8,
@@ -2818,8 +3016,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.806262, -122.438973],
-      "end_latlng": [37.801566, -122.431368],
+      "start_latlng": [
+        37.806262,
+        -122.438973
+      ],
+      "end_latlng": [
+        37.801566,
+        -122.431368
+      ],
       "average_speed": 1.42,
       "max_speed": 3.011,
       "average_cadence": 54.8,
@@ -2877,8 +3081,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.806718, -122.442123],
-      "end_latlng": [37.80663, -122.450242],
+      "start_latlng": [
+        37.806718,
+        -122.442123
+      ],
+      "end_latlng": [
+        37.80663,
+        -122.450242
+      ],
       "average_speed": 1.202,
       "max_speed": 1.933,
       "average_cadence": 51.1,
@@ -2936,8 +3146,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.809332, -122.409887],
-      "end_latlng": [37.808082, -122.4167],
+      "start_latlng": [
+        37.809332,
+        -122.409887
+      ],
+      "end_latlng": [
+        37.808082,
+        -122.4167
+      ],
       "average_speed": 1.02,
       "max_speed": 2.6,
       "average_cadence": 51.1,
@@ -2995,8 +3211,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.806427, -122.404972],
-      "end_latlng": [37.810811, -122.411222],
+      "start_latlng": [
+        37.806427,
+        -122.404972
+      ],
+      "end_latlng": [
+        37.810811,
+        -122.411222
+      ],
       "average_speed": 1.258,
       "max_speed": 1.886,
       "average_cadence": 53.6,
@@ -3054,8 +3276,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.789704, -122.388612],
-      "end_latlng": [37.79609, -122.39449],
+      "start_latlng": [
+        37.789704,
+        -122.388612
+      ],
+      "end_latlng": [
+        37.79609,
+        -122.39449
+      ],
       "average_speed": 1.134,
       "max_speed": 3.633,
       "average_cadence": 50.8,
@@ -3113,8 +3341,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.792218, -122.396226],
-      "end_latlng": [37.78991, -122.389357],
+      "start_latlng": [
+        37.792218,
+        -122.396226
+      ],
+      "end_latlng": [
+        37.78991,
+        -122.389357
+      ],
       "average_speed": 1.443,
       "max_speed": 8.34,
       "average_cadence": 53.5,
@@ -3172,8 +3406,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.792218, -122.404041],
-      "end_latlng": [37.784773, -122.402421],
+      "start_latlng": [
+        37.792218,
+        -122.404041
+      ],
+      "end_latlng": [
+        37.784773,
+        -122.402421
+      ],
       "average_speed": 1.71,
       "max_speed": 12.88,
       "average_cadence": 53.8,
@@ -3231,8 +3471,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.784179, -122.40337],
-      "end_latlng": [37.785376, -122.408333],
+      "start_latlng": [
+        37.784179,
+        -122.40337
+      ],
+      "end_latlng": [
+        37.785376,
+        -122.408333
+      ],
       "average_speed": 1.199,
       "max_speed": 2.738,
       "average_cadence": 51.7,
@@ -3290,8 +3536,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.785099, -122.40891],
-      "end_latlng": [37.78443, -122.401477],
+      "start_latlng": [
+        37.785099,
+        -122.40891
+      ],
+      "end_latlng": [
+        37.78443,
+        -122.401477
+      ],
       "average_speed": 1.154,
       "max_speed": 3.5,
       "average_cadence": 51.6,
@@ -3350,8 +3602,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.785271, -122.409052],
-      "end_latlng": [37.785403, -122.407574],
+      "start_latlng": [
+        37.785271,
+        -122.409052
+      ],
+      "end_latlng": [
+        37.785403,
+        -122.407574
+      ],
       "average_speed": 2.392,
       "max_speed": 5.7,
       "average_cadence": 77.9,
@@ -3409,8 +3667,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.785655, -122.407296],
-      "end_latlng": [37.784123, -122.402055],
+      "start_latlng": [
+        37.785655,
+        -122.407296
+      ],
+      "end_latlng": [
+        37.784123,
+        -122.402055
+      ],
       "average_speed": 1.288,
       "max_speed": 2.58,
       "average_cadence": 55.3,
@@ -3468,8 +3732,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.791588, -122.40565],
-      "end_latlng": [37.785281, -122.408391],
+      "start_latlng": [
+        37.791588,
+        -122.40565
+      ],
+      "end_latlng": [
+        37.785281,
+        -122.408391
+      ],
       "average_speed": 1.614,
       "max_speed": 4.029,
       "average_cadence": 57.3,
@@ -3527,8 +3797,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.796231, -122.404408],
-      "end_latlng": [37.793211, -122.406134],
+      "start_latlng": [
+        37.796231,
+        -122.404408
+      ],
+      "end_latlng": [
+        37.793211,
+        -122.406134
+      ],
       "average_speed": 1.143,
       "max_speed": 2.18,
       "average_cadence": 52.7,
@@ -3586,8 +3862,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.788162, -122.408043],
-      "end_latlng": [37.791142, -122.404489],
+      "start_latlng": [
+        37.788162,
+        -122.408043
+      ],
+      "end_latlng": [
+        37.791142,
+        -122.404489
+      ],
       "average_speed": 1.461,
       "max_speed": 9.3,
       "average_cadence": 54.3,
@@ -3645,8 +3927,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.788016, -122.398042],
-      "end_latlng": [37.785382, -122.40824],
+      "start_latlng": [
+        37.788016,
+        -122.398042
+      ],
+      "end_latlng": [
+        37.785382,
+        -122.40824
+      ],
       "average_speed": 1.512,
       "max_speed": 4.08,
       "average_cadence": 54.5,
@@ -3705,8 +3993,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.791064, -122.4003],
-      "end_latlng": [37.784471, -122.402062],
+      "start_latlng": [
+        37.791064,
+        -122.4003
+      ],
+      "end_latlng": [
+        37.784471,
+        -122.402062
+      ],
       "average_speed": 1.682,
       "max_speed": 6.38,
       "average_cadence": 78.3,
@@ -3764,8 +4058,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.785217, -122.405007],
-      "end_latlng": [37.78143, -122.400264],
+      "start_latlng": [
+        37.785217,
+        -122.405007
+      ],
+      "end_latlng": [
+        37.78143,
+        -122.400264
+      ],
       "average_speed": 1.558,
       "max_speed": 12.25,
       "average_cadence": 55.9,
@@ -3823,8 +4123,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.795504, -122.403815],
-      "end_latlng": [37.787231, -122.408628],
+      "start_latlng": [
+        37.795504,
+        -122.403815
+      ],
+      "end_latlng": [
+        37.787231,
+        -122.408628
+      ],
       "average_speed": 1.394,
       "max_speed": 3.54,
       "average_cadence": 54.8,
@@ -3882,8 +4188,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.786409, -122.408416],
-      "end_latlng": [37.794389, -122.406552],
+      "start_latlng": [
+        37.786409,
+        -122.408416
+      ],
+      "end_latlng": [
+        37.794389,
+        -122.406552
+      ],
       "average_speed": 1.324,
       "max_speed": 2.8,
       "average_cadence": 57.1,
@@ -3942,8 +4254,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.808503, -122.409554],
-      "end_latlng": [37.785607, -122.405385],
+      "start_latlng": [
+        37.808503,
+        -122.409554
+      ],
+      "end_latlng": [
+        37.785607,
+        -122.405385
+      ],
       "average_speed": 2.445,
       "max_speed": 4.26,
       "average_cadence": 78.6,
@@ -4002,8 +4320,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.785449, -122.407174],
-      "end_latlng": [37.808775, -122.410107],
+      "start_latlng": [
+        37.785449,
+        -122.407174
+      ],
+      "end_latlng": [
+        37.808775,
+        -122.410107
+      ],
       "average_speed": 2.721,
       "max_speed": 13.36,
       "average_cadence": 80.1,
@@ -4061,8 +4385,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.807791, -122.420268],
-      "end_latlng": [37.80875, -122.414602],
+      "start_latlng": [
+        37.807791,
+        -122.420268
+      ],
+      "end_latlng": [
+        37.80875,
+        -122.414602
+      ],
       "average_speed": 1.128,
       "max_speed": 2.44,
       "average_cadence": 50.7,
@@ -4120,8 +4450,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.801608, -122.447993],
-      "end_latlng": [37.804474, -122.433222],
+      "start_latlng": [
+        37.801608,
+        -122.447993
+      ],
+      "end_latlng": [
+        37.804474,
+        -122.433222
+      ],
       "average_speed": 1.294,
       "max_speed": 2.844,
       "average_cadence": 58.8,
@@ -4179,8 +4515,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.760495, -122.510238],
-      "end_latlng": [37.769504, -122.51049],
+      "start_latlng": [
+        37.760495,
+        -122.510238
+      ],
+      "end_latlng": [
+        37.769504,
+        -122.51049
+      ],
       "average_speed": 1.372,
       "max_speed": 11.46,
       "average_cadence": 51.9,
@@ -4238,8 +4580,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.790975, -122.40644],
-      "end_latlng": [37.785202, -122.408176],
+      "start_latlng": [
+        37.790975,
+        -122.40644
+      ],
+      "end_latlng": [
+        37.785202,
+        -122.408176
+      ],
       "average_speed": 1.652,
       "max_speed": 3.567,
       "average_cadence": 54.9,
@@ -4357,8 +4705,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.792564, -122.409377],
-      "end_latlng": [37.79908, -122.408482],
+      "start_latlng": [
+        37.792564,
+        -122.409377
+      ],
+      "end_latlng": [
+        37.79908,
+        -122.408482
+      ],
       "average_speed": 1.336,
       "max_speed": 3.717,
       "average_cadence": 61.6,
@@ -4476,8 +4830,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [37.426991, -122.172588],
-      "end_latlng": [37.424965, -122.168771],
+      "start_latlng": [
+        37.426991,
+        -122.172588
+      ],
+      "end_latlng": [
+        37.424965,
+        -122.168771
+      ],
       "average_speed": 0.988,
       "max_speed": 1.7,
       "average_cadence": 49.9,
@@ -4593,8 +4953,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078095, -80.81924],
-      "end_latlng": [35.07775, -80.817971],
+      "start_latlng": [
+        35.078095,
+        -80.81924
+      ],
+      "end_latlng": [
+        35.07775,
+        -80.817971
+      ],
       "average_speed": 1.474,
       "max_speed": 3.057,
       "average_cadence": 52.6,
@@ -4711,8 +5077,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.076773, -80.821938],
-      "end_latlng": [35.078166, -80.819339],
+      "start_latlng": [
+        35.076773,
+        -80.821938
+      ],
+      "end_latlng": [
+        35.078166,
+        -80.819339
+      ],
       "average_speed": 2.772,
       "max_speed": 10.614,
       "average_cadence": 81.9,
@@ -5002,8 +5374,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.07831, -80.820247],
-      "end_latlng": [35.077541, -80.821265],
+      "start_latlng": [
+        35.07831,
+        -80.820247
+      ],
+      "end_latlng": [
+        35.077541,
+        -80.821265
+      ],
       "average_speed": 1.62,
       "max_speed": 5.76,
       "average_cadence": 54.4,
@@ -5059,8 +5437,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.102718, -80.878499],
-      "end_latlng": [35.103141, -80.878276],
+      "start_latlng": [
+        35.102718,
+        -80.878499
+      ],
+      "end_latlng": [
+        35.103141,
+        -80.878276
+      ],
       "average_speed": 1.566,
       "max_speed": 2.18,
       "average_cadence": 55.7,
@@ -5119,8 +5503,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.22801, -80.858167],
-      "end_latlng": [35.229923, -80.861722],
+      "start_latlng": [
+        35.22801,
+        -80.858167
+      ],
+      "end_latlng": [
+        35.229923,
+        -80.861722
+      ],
       "average_speed": 2.929,
       "max_speed": 4.56,
       "average_cadence": 77.1,
@@ -5296,8 +5686,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.732249, -81.344602],
-      "end_latlng": [35.732173, -81.342833],
+      "start_latlng": [
+        35.732249,
+        -81.344602
+      ],
+      "end_latlng": [
+        35.732173,
+        -81.342833
+      ],
       "average_speed": 2.891,
       "max_speed": 4.3,
       "average_cadence": 83.8,
@@ -5413,8 +5809,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077346, -80.82415],
-      "end_latlng": [35.077888, -80.818693],
+      "start_latlng": [
+        35.077346,
+        -80.82415
+      ],
+      "end_latlng": [
+        35.077888,
+        -80.818693
+      ],
       "average_speed": 1.725,
       "max_speed": 3.08,
       "average_cadence": 56.6,
@@ -5473,8 +5875,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.07738, -80.822482],
-      "end_latlng": [35.077805, -80.818515],
+      "start_latlng": [
+        35.07738,
+        -80.822482
+      ],
+      "end_latlng": [
+        35.077805,
+        -80.818515
+      ],
       "average_speed": 2.801,
       "max_speed": 4.58,
       "average_cadence": 83.8,
@@ -5591,8 +5999,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.212435, -80.836276],
-      "end_latlng": [35.117807, -80.865958],
+      "start_latlng": [
+        35.212435,
+        -80.836276
+      ],
+      "end_latlng": [
+        35.117807,
+        -80.865958
+      ],
       "average_speed": 3.718,
       "max_speed": 6.8,
       "average_watts": 32.5,
@@ -5653,8 +6067,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.213427, -80.836108],
-      "end_latlng": [35.117418, -80.865854],
+      "start_latlng": [
+        35.213427,
+        -80.836108
+      ],
+      "end_latlng": [
+        35.117418,
+        -80.865854
+      ],
       "average_speed": 3.844,
       "max_speed": 6.98,
       "average_temp": 24,
@@ -5716,8 +6136,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.116759, -80.865503],
-      "end_latlng": [35.207195, -80.836225],
+      "start_latlng": [
+        35.116759,
+        -80.865503
+      ],
+      "end_latlng": [
+        35.207195,
+        -80.836225
+      ],
       "average_speed": 3.444,
       "max_speed": 6.34,
       "average_watts": 35.4,
@@ -5778,8 +6204,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.117751, -80.866156],
-      "end_latlng": [35.213405, -80.835172],
+      "start_latlng": [
+        35.117751,
+        -80.866156
+      ],
+      "end_latlng": [
+        35.213405,
+        -80.835172
+      ],
       "average_speed": 3.448,
       "max_speed": 6.42,
       "average_temp": 27,
@@ -5956,8 +6388,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.075523, -80.838941],
-      "end_latlng": [35.077711, -80.817791],
+      "start_latlng": [
+        35.075523,
+        -80.838941
+      ],
+      "end_latlng": [
+        35.077711,
+        -80.817791
+      ],
       "average_speed": 1.563,
       "max_speed": 2.817,
       "average_cadence": 56.5,
@@ -6016,8 +6454,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.074193, -80.825988],
-      "end_latlng": [35.074964, -80.839803],
+      "start_latlng": [
+        35.074193,
+        -80.825988
+      ],
+      "end_latlng": [
+        35.074964,
+        -80.839803
+      ],
       "average_speed": 2.773,
       "max_speed": 3.825,
       "average_cadence": 82.8,
@@ -6075,8 +6519,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077245, -80.824219],
-      "end_latlng": [35.077827, -80.818495],
+      "start_latlng": [
+        35.077245,
+        -80.824219
+      ],
+      "end_latlng": [
+        35.077827,
+        -80.818495
+      ],
       "average_speed": 1.737,
       "max_speed": 3.289,
       "average_cadence": 57.5,
@@ -6309,8 +6759,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.074248, -80.84258],
-      "end_latlng": [35.076671, -80.84106],
+      "start_latlng": [
+        35.074248,
+        -80.84258
+      ],
+      "end_latlng": [
+        35.076671,
+        -80.84106
+      ],
       "average_speed": 2.317,
       "max_speed": 4.283,
       "average_cadence": 80.9,
@@ -6369,8 +6825,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.076872, -80.82223],
-      "end_latlng": [35.077748, -80.817839],
+      "start_latlng": [
+        35.076872,
+        -80.82223
+      ],
+      "end_latlng": [
+        35.077748,
+        -80.817839
+      ],
       "average_speed": 2.637,
       "max_speed": 4.271,
       "average_cadence": 81.8,
@@ -6429,8 +6891,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078228, -80.819935],
-      "end_latlng": [35.077317, -80.821474],
+      "start_latlng": [
+        35.078228,
+        -80.819935
+      ],
+      "end_latlng": [
+        35.077317,
+        -80.821474
+      ],
       "average_speed": 2.67,
       "max_speed": 4.433,
       "average_cadence": 82.5,
@@ -6488,8 +6956,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.075668, -80.835138],
-      "end_latlng": [35.077791, -80.817013],
+      "start_latlng": [
+        35.075668,
+        -80.835138
+      ],
+      "end_latlng": [
+        35.077791,
+        -80.817013
+      ],
       "average_speed": 1.828,
       "max_speed": 7.443,
       "average_cadence": 60.2,
@@ -6548,8 +7022,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.07429, -80.832641],
-      "end_latlng": [35.07531, -80.835101],
+      "start_latlng": [
+        35.07429,
+        -80.832641
+      ],
+      "end_latlng": [
+        35.07531,
+        -80.835101
+      ],
       "average_speed": 2.897,
       "max_speed": 4.229,
       "average_cadence": 83.7,
@@ -6607,8 +7087,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077122, -80.822353],
-      "end_latlng": [35.07427, -80.832218],
+      "start_latlng": [
+        35.077122,
+        -80.822353
+      ],
+      "end_latlng": [
+        35.07427,
+        -80.832218
+      ],
       "average_speed": 1.961,
       "max_speed": 2.833,
       "average_cadence": 66.3,
@@ -6667,8 +7153,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077614, -80.817695],
-      "end_latlng": [35.077498, -80.817847],
+      "start_latlng": [
+        35.077614,
+        -80.817695
+      ],
+      "end_latlng": [
+        35.077498,
+        -80.817847
+      ],
       "average_speed": 3.793,
       "max_speed": 7.82,
       "average_temp": 21,
@@ -6785,8 +7277,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077638, -80.82127],
-      "end_latlng": [35.077412, -80.822443],
+      "start_latlng": [
+        35.077638,
+        -80.82127
+      ],
+      "end_latlng": [
+        35.077412,
+        -80.822443
+      ],
       "average_speed": 1.77,
       "max_speed": 4.94,
       "average_cadence": 57.5,
@@ -6843,8 +7341,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077084, -80.824254],
-      "end_latlng": [35.073871, -80.826332],
+      "start_latlng": [
+        35.077084,
+        -80.824254
+      ],
+      "end_latlng": [
+        35.073871,
+        -80.826332
+      ],
       "average_speed": 2.303,
       "max_speed": 4.317,
       "average_cadence": 81.3,
@@ -6902,8 +7406,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.064536, -80.856281],
-      "end_latlng": [35.060094, -80.854042],
+      "start_latlng": [
+        35.064536,
+        -80.856281
+      ],
+      "end_latlng": [
+        35.060094,
+        -80.854042
+      ],
       "average_speed": 1.59,
       "max_speed": 2.6,
       "average_cadence": 55.8,
@@ -6962,8 +7472,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.074985, -80.830336],
-      "end_latlng": [35.077981, -80.818456],
+      "start_latlng": [
+        35.074985,
+        -80.830336
+      ],
+      "end_latlng": [
+        35.077981,
+        -80.818456
+      ],
       "average_speed": 2.405,
       "max_speed": 4.2,
       "average_cadence": 80.1,
@@ -7021,8 +7537,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.07778, -80.821061],
-      "end_latlng": [35.07783, -80.818478],
+      "start_latlng": [
+        35.07778,
+        -80.821061
+      ],
+      "end_latlng": [
+        35.07783,
+        -80.818478
+      ],
       "average_speed": 1.77,
       "max_speed": 4.1,
       "average_cadence": 59.9,
@@ -7081,8 +7603,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.075875, -80.824802],
-      "end_latlng": [35.0781, -80.819366],
+      "start_latlng": [
+        35.075875,
+        -80.824802
+      ],
+      "end_latlng": [
+        35.0781,
+        -80.819366
+      ],
       "average_speed": 2.431,
       "max_speed": 6.14,
       "average_cadence": 79.9,
@@ -7138,8 +7666,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.074117, -80.828657],
-      "end_latlng": [35.07826, -80.819945],
+      "start_latlng": [
+        35.074117,
+        -80.828657
+      ],
+      "end_latlng": [
+        35.07826,
+        -80.819945
+      ],
       "average_speed": 1.707,
       "max_speed": 3.28,
       "average_cadence": 57.7,
@@ -7196,8 +7730,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.07759, -80.81785],
-      "end_latlng": [35.07753, -80.817797],
+      "start_latlng": [
+        35.07759,
+        -80.81785
+      ],
+      "end_latlng": [
+        35.07753,
+        -80.817797
+      ],
       "average_speed": 3.647,
       "max_speed": 10.94,
       "average_watts": 46.7,
@@ -7319,8 +7859,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077339, -80.822445],
-      "end_latlng": [35.077283, -80.824324],
+      "start_latlng": [
+        35.077339,
+        -80.822445
+      ],
+      "end_latlng": [
+        35.077283,
+        -80.824324
+      ],
       "average_speed": 2.581,
       "max_speed": 3.98,
       "average_cadence": 79.9,
@@ -7430,8 +7976,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.061178, -80.827613],
-      "end_latlng": [35.060519, -80.826962],
+      "start_latlng": [
+        35.061178,
+        -80.827613
+      ],
+      "end_latlng": [
+        35.060519,
+        -80.826962
+      ],
       "average_speed": 1.041,
       "max_speed": 3.233,
       "average_cadence": 50,
@@ -7489,8 +8041,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.076157, -80.836455],
-      "end_latlng": [35.078266, -80.820426],
+      "start_latlng": [
+        35.076157,
+        -80.836455
+      ],
+      "end_latlng": [
+        35.078266,
+        -80.820426
+      ],
       "average_speed": 1.676,
       "max_speed": 2.757,
       "average_cadence": 59.8,
@@ -7548,8 +8106,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.07801, -80.818894],
-      "end_latlng": [35.074962, -80.839579],
+      "start_latlng": [
+        35.07801,
+        -80.818894
+      ],
+      "end_latlng": [
+        35.074962,
+        -80.839579
+      ],
       "average_speed": 1.644,
       "max_speed": 3.92,
       "average_cadence": 58.4,
@@ -7607,8 +8171,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077847, -80.818601],
-      "end_latlng": [35.078421, -80.820167],
+      "start_latlng": [
+        35.077847,
+        -80.818601
+      ],
+      "end_latlng": [
+        35.078421,
+        -80.820167
+      ],
       "average_speed": 1.852,
       "max_speed": 3.26,
       "average_cadence": 61.1,
@@ -7667,8 +8237,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077901, -80.820876],
-      "end_latlng": [35.075444, -80.824998],
+      "start_latlng": [
+        35.077901,
+        -80.820876
+      ],
+      "end_latlng": [
+        35.075444,
+        -80.824998
+      ],
       "average_speed": 2.609,
       "max_speed": 4.329,
       "average_cadence": 79.1,
@@ -7790,8 +8366,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.078238, -80.820061],
-      "end_latlng": [35.078325, -80.820198],
+      "start_latlng": [
+        35.078238,
+        -80.820061
+      ],
+      "end_latlng": [
+        35.078325,
+        -80.820198
+      ],
       "average_speed": 2.591,
       "max_speed": 3.771,
       "average_cadence": 80.5,
@@ -7850,8 +8432,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.077068, -80.821803],
-      "end_latlng": [35.07824, -80.820398],
+      "start_latlng": [
+        35.077068,
+        -80.821803
+      ],
+      "end_latlng": [
+        35.07824,
+        -80.820398
+      ],
       "average_speed": 2.65,
       "max_speed": 4.283,
       "average_cadence": 79.8,
@@ -7963,8 +8551,14 @@
       "visibility": "everyone",
       "flagged": false,
       "gear_id": null,
-      "start_latlng": [35.060564, -80.812505],
-      "end_latlng": [35.060349, -80.81081],
+      "start_latlng": [
+        35.060564,
+        -80.812505
+      ],
+      "end_latlng": [
+        35.060349,
+        -80.81081
+      ],
       "average_speed": 1.357,
       "max_speed": 5.533,
       "average_cadence": 52.7,
@@ -8036,6 +8630,6 @@
       "has_kudoed": false
     }
   ],
-  "lastUpdated": "2026-03-12T06:26:55.839Z",
+  "lastUpdated": "2026-03-13T06:10:21.356Z",
   "source": "Strava"
 }

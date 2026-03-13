@@ -201,9 +201,9 @@
       "calories": 1274.0842669208903
     },
     "2026-03-05": {
-      "steps": 19994,
-      "distance": 13885.619282695601,
-      "calories": 2907.6909618064046
+      "steps": 0,
+      "distance": 0,
+      "calories": 1030.3883826494814
     },
     "2026-03-06": {
       "steps": 20565,
@@ -231,14 +231,19 @@
       "calories": 4629.894691503499
     },
     "2026-03-11": {
-      "steps": 975,
+      "steps": 974,
       "distance": 421.08440773322127,
-      "calories": 387.82020526734215
+      "calories": 1387.4707061430722
     },
     "2026-01-22": {
       "steps": 0,
       "distance": 0,
       "calories": 3770.2681049493453
+    },
+    "2026-03-12": {
+      "steps": 8642,
+      "distance": 5751.29410797124,
+      "calories": 1258.8752704480266
     }
   },
   "sleep": {
@@ -877,6 +882,10 @@
     "2026-03-11": {
       "activeMinutes": 3,
       "heartMinutes": 0
+    },
+    "2026-03-12": {
+      "activeMinutes": 125,
+      "heartMinutes": 7
     }
   },
   "heartRateZones": {
@@ -1106,19 +1115,19 @@
     },
     "2026-03-09": {
       "zone1Minutes": 74,
-      "zone2Minutes": 39,
+      "zone2Minutes": 40,
       "zone3Minutes": 49,
-      "zone4Minutes": 7,
+      "zone4Minutes": 6,
       "zone5Minutes": 28,
       "totalActiveMinutes": 197
     },
     "2026-03-10": {
-      "zone1Minutes": 276,
+      "zone1Minutes": 275,
       "zone2Minutes": 189,
       "zone3Minutes": 5,
       "zone4Minutes": 13,
       "zone5Minutes": 5,
-      "totalActiveMinutes": 488
+      "totalActiveMinutes": 487
     },
     "2026-03-11": {
       "zone1Minutes": 5,
@@ -1135,15 +1144,23 @@
       "zone4Minutes": 0,
       "zone5Minutes": 0,
       "totalActiveMinutes": 0
+    },
+    "2026-03-13": {
+      "zone1Minutes": 0,
+      "zone2Minutes": 0,
+      "zone3Minutes": 0,
+      "zone4Minutes": 0,
+      "zone5Minutes": 0,
+      "totalActiveMinutes": 0
     }
   },
-  "lastUpdated": "2026-03-12T06:26:57.786Z",
+  "lastUpdated": "2026-03-13T06:26:08.568Z",
   "source": "Google Fit",
   "dataRange": {
-    "stepsDays": 48,
+    "stepsDays": 49,
     "sleepDays": 46,
     "heartRateDays": 31,
-    "moveMinutesDays": 31,
-    "heartRateZonesDays": 32
+    "moveMinutesDays": 32,
+    "heartRateZonesDays": 33
   }
 }

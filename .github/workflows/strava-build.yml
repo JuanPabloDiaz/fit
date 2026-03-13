@@ -1,8 +1,8 @@
 name: Update Strava Data
 
 on:
-  schedule:
-    - cron: "0 6 * * *" # diario a las 6am UTC
+  #  schedule:
+  #    - cron: "0 4 * * *" # diario a las 4am UTC
   workflow_dispatch:
 
 jobs:

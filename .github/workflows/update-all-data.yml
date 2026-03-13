@@ -43,6 +43,9 @@ jobs:
           HEVY_API_KEY: ${{ secrets.HEVY_API_KEY }}
         continue-on-error: true
 
+      - name: Pull latest before commit
+        run: git pull --rebase origin main
+
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -51,6 +54,7 @@ jobs:
           commit_user_name: "Fitness Bot"
           commit_user_email: "bot@fit.jpdiaz.dev"
           commit_author: "Fitness Bot <bot@fit.jpdiaz.dev>"
+          push_options: "--force-with-lease"
 
       - name: Trigger deployments (optional)
         if: success()
